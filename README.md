@@ -10,8 +10,8 @@
 
 ### 🚀 About Me
 
-I'm an *Information Systems* student building practical solutions with **JavaScript**, **Node.js**, and **React**.  
-I love creating clean UIs, robust APIs and learning something new every week.
+I'm an *Information Systems* student passionate about building projects with **JavaScript**, **Node.js**, and **React**.  
+Always learning and improving my skills to create practical and scalable solutions.
 
 ---
 
@@ -34,11 +34,12 @@ I love creating clean UIs, robust APIs and learning something new every week.
 
 ### 📫 Get in Touch
 
-- ✉️ Email: matheussegatto1@icloud.com
-- 💼 <a href="https://www.linkedin.com/in/matheus-segatto-428465266/">LinkedIn</a>
-- 🌐 Portfolio: *coming soon*
+- ✉️ Email: matheussegatto1@icloud.com  
+- 💼 <a href="https://www.linkedin.com/in/matheus-segatto-428465266/">LinkedIn</a>  
+- 🌐 Portfolio: *coming soon*  
 
 ---
 
-> “Practice makes perfect, and curiosity opens the path to learning.” 🚀
+> “Practice makes perfect, and curiosity opens the path to learning.” 
+
 
