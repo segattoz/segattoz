@@ -27,8 +27,9 @@ Always learning and improving my skills to create practical and scalable solutio
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=matheussegatto&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheussegatto&layout=compact&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheussegatto&layout=compact&theme=tokyonight&hide=java,python,c,angelscript,html,css" />
 </p>
+
 
 ---
 
