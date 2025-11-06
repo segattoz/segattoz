@@ -37,7 +37,7 @@ Always learning and improving my skills to create practical and scalable solutio
 
 - ✉️ Email: matheussegatto1@icloud.com  
 - 💼 <a href="https://www.linkedin.com/in/matheus-segatto-428465266/">LinkedIn</a>  
-- 🌐 Portfolio: *coming soon*  
+- 🌐 Portfolio: <a href="https://maskeai.netlify.app/">MASKE</a>
 
 ---
 
