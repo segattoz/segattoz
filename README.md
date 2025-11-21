@@ -92,11 +92,6 @@ Gosto de pegar processos travados, cheios de planilha e tarefa manual, e transfo
 
 ---
 
-<div align="center">
-  <br>
-  <p><b>👀 Visitantes</b></p>
-  <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fsegattoz&s=40&c=4F46E5&no=5&ff=digi&tb=Visitas%3A&ta=" alt="visit counter"/>
-</div>
 
 <br>
 
